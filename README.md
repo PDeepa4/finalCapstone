@@ -16,7 +16,7 @@ a polarity score of 0 indicates a neutral sentiment.
 By categorising feedback as positive, negative or neutral, companies can identify areas of improvement, address complaints, improve product quality 
 and enhance customer satisfaction. 
 
-#### 1st Review Evaluation (1st entry):  
+#### Example screenshot 1: 1st Review Evaluation (Choosing 1st entry from dataframe):  
 Review text: 'I thought it would be as big as small paper but turn out to be just like my palm. I think it is too small to read on it... not very comfortable as regular Kindle. Would definitely recommend a paperwhite instead.'
 
 Processed text: think big small paper turn like palm think small read comfortable regular kindle definitely recommend paperwhite instead
@@ -25,7 +25,7 @@ Processed text: think big small paper turn like palm think small read comfortabl
 <img width="478" alt="image" src="https://github.com/PDeepa4/finalCapstone/assets/151678876/10b409f0-5421-4104-8dec-d7d4d2583932">
 
 
-#### 2nd Review Evaluation (6th entry):  
+#### Example screenshot 2: 2nd Review Evaluation (Choosing 6th entry from dataframe):  
 Review text: “This make an excellent ebook reader. Don't expect much from this device except to read basic ebooks. The good thing is it's cheap and good to read in the sun.”
 
 Processed text: excellent ebook reader expect device read basic ebook good thing cheap good read sun
